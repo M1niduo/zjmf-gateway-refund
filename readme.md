@@ -18,4 +18,6 @@ zjmfhook(
 
 ![1](https://github.com/M1niduo/zjmf-gateway-refund/blob/main/屏幕截图_30-5-2026_0390_www.miniduo.cn.jpeg)
 
+- 注意这个可追溯的交易流水号
+
 ![2](https://github.com/M1niduo/zjmf-gateway-refund/blob/main/屏幕截图_30-5-2026_04236_www.miniduo.cn.jpeg)
